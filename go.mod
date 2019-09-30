@@ -1,1 +1,1 @@
-module github.com/poloxue/testmod
+module testmod
